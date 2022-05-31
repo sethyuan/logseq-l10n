@@ -37,3 +37,14 @@ logseq
   })
   .catch(console.error)
 ```
+
+```js
+// src/translations/zh-CN.json
+
+// Key is the default text used, value is the respective translation.
+
+{
+  "Export page": "导出页面",
+  "Toggle document view": "开启关闭文档视图"
+}
+```
