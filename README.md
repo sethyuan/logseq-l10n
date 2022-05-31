@@ -44,7 +44,7 @@ logseq
 // Key is the default text used, value is the respective translation.
 
 {
-  "Export page": "导出页面",
-  "Toggle document view": "开启关闭文档视图"
+  "Hello world!": "你好世界！",
+  "Hello ${name}!": "你好${name}！"
 }
 ```
