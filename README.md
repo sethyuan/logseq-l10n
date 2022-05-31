@@ -48,3 +48,7 @@ logseq
   "Hello ${name}!": "你好${name}！"
 }
 ```
+
+For a referential plugin implementation, please see [logseq-plugin-doc](https://github.com/sethyuan/logseq-plugin-doc).
+
+In the simplest case, you only need to give a `urlTemplate` to `setup`. Users then can contribute translations in the form of PR, and when you merge them, the translations will be available for use immediately for future fetches.
