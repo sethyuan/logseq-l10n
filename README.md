@@ -5,7 +5,7 @@ L10N framework for Logseq plugins.
 ## How to use it
 
 ```js
-import logseq from "@logseq/libs"
+import "@logseq/libs"
 import { setup, t } from "logseq-l10n"
 import zhCN from "./translations/zh-CN.json"
 
