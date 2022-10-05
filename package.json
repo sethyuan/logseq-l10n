@@ -1,6 +1,6 @@
 {
   "name": "logseq-l10n",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "L10N framework for Logseq plugins",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
